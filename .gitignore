@@ -1,0 +1,8 @@
+#Keil Project ignore file
+/Lst/*
+!/Lst/.gitkeep
+/Obj/*
+!/Obj/.gitkeep
+/Project/*
+!/Project/MainControl.uvproj
+/MainControl.*
